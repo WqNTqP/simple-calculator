@@ -26,7 +26,7 @@ function App() {
 
   return (
     <div className="calculator">
-      <h1>Simple Calculator</h1>
+      <h1>Simple Emping Calculator </h1>
       <div className="display">
         <div className="input">{input}</div>
         <div className="result">{result}</div>
